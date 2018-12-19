@@ -1,7 +1,11 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings_migrated />
+  </component>
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
-      <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="F:\Users\SRoquebert\AppData\Roaming\Composer\vendor\bin\phpcs.bat" />
+      <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="F:/Users/SRoquebert/AppData/Roaming/Composer/vendor/bin/phpcs" />
       <phpcs_by_interpreter interpreter_id="22605e56-5387-4ca0-b498-1e00156f7502" standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="F:\Users\SRoquebert\AppData\Roaming\Composer\vendor\bin\phpcs.bat" />
     </phpcs_settings>
   </component>
